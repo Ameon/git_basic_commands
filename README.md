@@ -18,9 +18,9 @@
 
 **git diff** – увидеть разницу между текущим файлом и закоммиченным файлом
 
->### Из комбинации лени и логики получаются программисты.
+> ### Из комбинации лени и логики получаются программисты.
 
-[<img src="programmer-min.jpg" width="350"/>]()
+[<img src="programmer-min.jpg" width="350"/>](https://github.com/Ameon/git_basic_commands/blob/master/programmer-min.jpg)
 
 
 
